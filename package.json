@@ -1,6 +1,6 @@
 {
 	"name": "nodejs-template",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Nodejs-express tempate",
 	"main": "src/",
 	"author": "M.Salih Gumus",
